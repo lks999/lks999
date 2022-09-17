@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
 
+<div align="center">
 ## 💻 Tech Stacks 💻
 
 <div>
@@ -24,3 +25,4 @@
 
 ![lks999's github stats](https://github-readme-stats.vercel.app/api?username=lks999&show_icons=true)
 
+</
