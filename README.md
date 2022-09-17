@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=이%20코드는%20나와%20신만이%20아신다...%20readme&desc=PgmJun's%20GitHub%20Profile&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=%20%20%20%20%20readme&fontSize=40&animation=twinkling)
 
 <img width="100%" src="https://user-images.githubusercontent.com/65687385/190871553-562c481b-fd53-4f9a-9e92-c1b3f3598c12.jpg"/>
 
