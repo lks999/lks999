@@ -16,3 +16,5 @@
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-plastic&logo=Eclipse IDE&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat-plastic&logo=github&logoColor=white"
 </div>
+
+![lks999's github stats](https://github-readme-stats.vercel.app/api?username=lks999&show_icons=true)
