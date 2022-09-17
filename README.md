@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
-
-<div align="center">
 ## 💻 Tech Stacks 💻
+<div align="center">
+
 
 <div>
 <img src="https://img.shields.io/badge/java-25316D?style=flat-plastic&logo=java&logoColor=white"> 
