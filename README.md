@@ -22,6 +22,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lks999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## ✉ SNS/Email ✉
+
 ![lks999's github stats](https://github-readme-stats.vercel.app/api?username=lks999&show_icons=true)
 
 </div>
