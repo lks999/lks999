@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
 
+## 💻 Tech Stacks 💻
+
 <div>
 <img src="https://img.shields.io/badge/java-25316D?style=flat-plastic&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/html5-F7A76C?style=flat-plastic&logo=html5&logoColor=white">
@@ -17,4 +19,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat-plastic&logo=github&logoColor=white"
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lks999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![lks999's github stats](https://github-readme-stats.vercel.app/api?username=lks999&show_icons=true)
+
